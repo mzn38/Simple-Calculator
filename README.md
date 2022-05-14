@@ -1,1 +1,1 @@
-# Simple-Calculator created using html css and js
+# Simple-Calculator created using html css and javascript
